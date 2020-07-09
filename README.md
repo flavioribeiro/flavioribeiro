@@ -1,5 +1,22 @@
 ### Hi there 👋
 
-I'm currently working as Director of Engineering at [CBS Interactive](http://cbsinteractive.com).
-Visit my [LinkedIn](http://linkedin.com/in/flavioribeiro) if you want to know more about my professional life.
-I also write some stuff on my personal [blog](http://blog.flavioribeiro.com), [medium](http://medium.com/flavioribeiro), and [nytimes open](http://open.blogs.nytimes.com/author/flavio-ribeiro/).
+
+<a href="https://in.linkedin.com/in/flavioribeiro">
+  <img align="left" width="24px" src="https://github.com/flavioribeiro/flavioribeiro/blob/master/imgs/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/flavioribeiro">
+  <img align="left" width="24px" src="https://github.com/flavioribeiro/flavioribeiro/blob/master/imgs/twitter.svg" />
+</a>
+
+<a href="https://www.speakerdeck.com/flavioribeiro">
+  <img align="left" width="24px" src="https://github.com/flavioribeiro/flavioribeiro/blob/master/imgs/speakerdeck.png" />
+</a>
+
+<a href="https://www.slideshare.net/flavioribeiro">
+  <img align="left" width="24px" src="https://github.com/flavioribeiro/flavioribeiro/blob/master/imgs/slideshare.png" />
+</a>
+
+<a href="https://blog.flavioribeiro.com">
+  <img align="left" width="24px" src="https://github.com/flavioribeiro/flavioribeiro/blob/master/imgs/blogger.png" />
+</a>
