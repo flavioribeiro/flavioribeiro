@@ -17,6 +17,6 @@
   <img align="left" width="24px" src="https://github.com/flavioribeiro/flavioribeiro/blob/master/imgs/slideshare.png" />
 </a>
 
-<a href="https://blog.flavioribeiro.com">
+<a href="http://blog.flavioribeiro.com">
   <img align="left" width="24px" src="https://github.com/flavioribeiro/flavioribeiro/blob/master/imgs/blogger.png" />
 </a>
